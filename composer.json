@@ -6,6 +6,7 @@
     "require": {
         "php": ">5.6",
         "ext-phalcon": "3.3.*",
-        "phpbenchmarks/phalcon-common": "dev-phalcon_3_hello-world"
+        "phpbenchmarks/phalcon-common": "dev-phalcon_3_rest-api",
+        "phpbenchmarks/benchmark-rest-data": "^1.0"
     }
 }
